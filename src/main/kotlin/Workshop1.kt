@@ -64,7 +64,7 @@ fun convertCelsiusToFahrenheit() {
         return
     }
 
-    //🚨    val fahrenheitResult = celsiusToFahrenheit(celsius)
+    //🚨    val fahrenheitResult = celsiusToFahrenheit(celsius)1
     val fahrenheitResult = celsiusToFahrenheit(celsius)
 
     // 6. แสดงผลลัพธ์
